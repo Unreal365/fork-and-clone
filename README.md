@@ -6,3 +6,9 @@ My favorite ice cream flavors:
 
 - Peppermin Stick
 - Mint Chip
+
+Stevie's favorite ice cream flavors:
+
+- Meal Worm
+- Shrip Flakes
+- Sunflower Seeds
